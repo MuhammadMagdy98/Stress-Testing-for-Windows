@@ -1,4 +1,4 @@
-#Steps to run the stress testing
+# Steps to run the stress testing
 
 Requirements to run the stress testing
 
