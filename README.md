@@ -20,3 +20,6 @@ Stress testing helps you to find a counter  test case for your wrong answer solu
 ``py stress.py``
 
 
+## To generate test cases: 
+
+``py test.py``
