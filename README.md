@@ -1,4 +1,4 @@
-# Steps to run the stress testing
+# Stress testing with a Python Script
 
 Stress testing helps you to find a counter  test case for your wrong answer solutions. 
 
