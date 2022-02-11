@@ -21,10 +21,9 @@ while 1:
         
         print('WA found a counter test case')
         
-        print(f"correct_output = {correct_output}")
-        print(f"wrong output = {wrong_output}")
-        print(f"counter test case:")
-        print(counter_test)
+        print(f"correct_output:\n{correct_output}")
+        print(f"wrong output:\n{wrong_output}")
+        print(f"counter test case:\n{counter_test}")
         exit(0)
     
     print(f'test cases passed {t}')
