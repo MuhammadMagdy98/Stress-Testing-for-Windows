@@ -4,6 +4,9 @@ Stress testing helps you to find a counter  test case for your wrong answer solu
 
 - You need to have mingw and python both added to your environment variables
 
+  - [Mingw setup tutorial](https://youtu.be/sXW2VLrQ3Bs) 
+  - [Python setup tutorial](https://youtu.be/Kn1HF3oD19c)
+
 ``generator.cpp`` Write your own generator based on the problem statement
 
 ``fast_solution.cpp`` This is the solution giving a wrong answer and you don't know why
