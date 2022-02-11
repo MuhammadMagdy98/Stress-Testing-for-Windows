@@ -2,7 +2,7 @@
 
 Stress testing helps you to find a counter  test case for your wrong answer solutions. 
 
-- You need to have mingw and python both added to your environment variables
+- You need to have Mingw and Python both added to your environment variables
 
   - [Mingw setup tutorial](https://youtu.be/sXW2VLrQ3Bs) 
   - [Python setup tutorial](https://youtu.be/Kn1HF3oD19c)
