@@ -15,6 +15,6 @@ stress.py
 
 To run the stress testing:
 
-py stress.py
+``py stress.py``
 
 
