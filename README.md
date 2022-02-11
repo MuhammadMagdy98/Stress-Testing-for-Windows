@@ -1,8 +1,8 @@
 # Steps to run the stress testing
 
-Requirements to run the stress testing
+Stress testing helps you to find a counter  test case for your wrong answer solutions. 
 
-You need to have mingw and python both added to your environment variables
+- You need to have mingw and python both added to your environment variables
 
 generator.cpp Write your own generator based on the problem statement
 
