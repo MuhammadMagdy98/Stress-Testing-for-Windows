@@ -6,7 +6,7 @@ os.system('g++ generator.cpp -o generator')
 t = 1
 
 def compare(s1, s2, input_test):
-    return s1 == s2
+    return s1.split() == s2.split()
     
 while 1:
     
