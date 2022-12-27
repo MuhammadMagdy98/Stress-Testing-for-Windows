@@ -20,6 +20,6 @@ Stress testing helps you to find a counter  test case for your wrong answer solu
 ``py stress.py``
 
 
-## To generate a zip file of n test cases using genenrator.cpp: 
+## To generate a zip file of n test cases using generator.cpp: 
 
 ``py test.py``
