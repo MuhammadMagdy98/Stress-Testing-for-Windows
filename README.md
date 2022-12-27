@@ -11,7 +11,7 @@ Stress testing helps you to find a counter  test case for your wrong answer solu
 
 ``fast_solution.cpp`` A solution giving a wrong answer and you don't know why
 
-``bruteforce.cpp`` A slow solution, but giving 100% correct output
+``bruteforce.cpp`` A slow solution, but giving 100% correct answer
 
 
 
